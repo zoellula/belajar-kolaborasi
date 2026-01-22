@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-Harusnya menambahkan kolaborator.
+Harusnya menambahkan kolaborator.  
+Lalu menambahkan kontributor.
